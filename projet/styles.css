@@ -1,0 +1,51 @@
+.ma-div {
+    
+    background-color: aliceblue;
+}
+form {
+    background-color: skyblue;
+    padding: 40px;
+    
+    width: 400px;  /* ajuste la largeur du formulaire */
+    margin-left: 450px;
+    margin-top: 100px;
+    font-size: 19px;
+}
+body{
+    background-color: lightblue;
+}
+.madiv {
+    height: 200px;
+    background-color: skyblue;
+    margin-top: 200px;
+    text-align: center;
+    display: grid;
+}
+.diva{
+    margin-left: 400px;
+}
+.h2{
+     margin-left: 600px;
+}
+.divaa{
+    margin-left: 400px;
+    margin-top: 200px;
+}
+.divaaa{
+    margin-top: 100px;
+    background-color: aliceblue;
+}
+.ma{
+    margin-left: 490px;
+    margin-top: 80px;
+}
+.maa{
+    margin-top: 60px;
+}
+.MA{
+    margin-left: 450px;
+}
+.i{
+    font-size: 30px; /* Taille de l'icône */
+    transition: transform 0.2s; /* Effet au survol */
+}
